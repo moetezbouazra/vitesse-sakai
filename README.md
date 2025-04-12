@@ -1,25 +1,25 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/11247099/140462375-7b7ac4db-35b7-453c-8a05-13d8d20282c4.png" width="600"/>
+<img src="https://github.com/moetezbouazra/vitesse-sakai/blob/main/public/images/vitesse%20+%20sakai.png?raw=true" width="300"/>
 </p>
 
 <h2 align="center">
-<a href="https://github.com/antfu/vitesse">Vitesse</a> for Sakai
+<a href="https://github.com/antfu/vitesse">Vitesse</a> + <a href="https://github.com/primefaces/sakai-vue">Sakai</a> Template
 </h2><br>
 
 <p align="center">
 <br>
-<a href="https://vitesse-Sakai3.netlify.app/">🖥 Online Preview</a>
+<a href="https://vitesse-sakai.netlify.app/">🖥 Online Preview</a>
 <br><br>
-<a href="https://stackblitz.com/github/antfu/vitesse-Sakai"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt=""></a>
+<a href="/"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt=""></a>
 </p>
 
 ## Features
 
-- 💚 [Sakai 3](https://Sakai.com/) - SSR, ESR, File-based routing, components auto importing, modules, etc.
+- 💚 [Sakai 3](https://sakai.primevue.org/) - Admin Dashboard Vue template build with Primevue.
 
 - ⚡️ Vite - Instant HMR.
 
-- 🎨 [UnoCSS](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
+- 🎨 [Tailwind CSS V3](https://v3.tailwindcss.com/) - next generation utility-first CSS framework.
 
 - 😃 Use icons from any icon sets in Pure CSS, powered by [UnoCSS](https://github.com/unocss/unocss).
 
@@ -63,18 +63,18 @@ We recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https:
 
 ### Online
 
-<a href="https://stackblitz.com/github/antfu/vitesse-Sakai"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt=""></a>
+<a href="https://stackblitz.com/github/moetezbouazra/vitesse-sakai"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt=""></a>
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/antfu/vitesse-Sakai/generate).
+[Create a repo from this template on GitHub](https://github.com/moetezbouazra/vitesse-sakai/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit antfu/vitesse-Sakai my-Sakai-app
-cd my-Sakai-app
+npx degit moetezbouazra/vitesse-sakai my-Sakai-app
+cd vitesse-sakai
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
